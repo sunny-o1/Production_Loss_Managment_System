@@ -136,20 +136,6 @@ Sample fields:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your dashboard here.
-
-Example:
-
-```
-assets/
-    dashboard.png
-    reports.png
-    analysis.png
-```
-
----
 
 ## 📌 Future Improvements
 
